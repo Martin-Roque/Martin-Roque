@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Martin-Roque
-- 👀 I’m interested in learning about programming and data analysis
-- 🌱 I’m currently learning C++, Java and SQL
+- 👀 I’m interested in learning about programming, web design and data analysis
+- 🌱 I’m currently learning C#, HTML, CSS, JavasScript and SQL
